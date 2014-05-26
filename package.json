@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/stefanpenner/broccoli-es3-safe-recast",
   "dependencies": {
-    "es3-safe-recast": "0.0.1",
+    "es3-safe-recast": "0.0.2",
     "broccoli-filter": "~0.1.6"
   }
 }

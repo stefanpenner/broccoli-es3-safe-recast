@@ -1,6 +1,6 @@
 {
   "name": "broccoli-es3-safe-recast",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "broccoli filter for an es5 -> es3 recast. catch/finally -> ['catch'] & ['finally']",
   "main": "index.js",
   "scripts": {

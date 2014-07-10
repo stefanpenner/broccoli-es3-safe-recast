@@ -1,6 +1,6 @@
 {
   "name": "broccoli-es3-safe-recast",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "broccoli filter for an es5 -> es3 recast. catch/finally -> ['catch'] & ['finally']",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/stefanpenner/broccoli-es3-safe-recast",
   "dependencies": {
-    "es3-safe-recast": "0.0.7",
+    "es3-safe-recast": "0.0.8",
     "broccoli-filter": "~0.1.6"
   }
 }
